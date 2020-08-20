@@ -1,0 +1,63 @@
+header
+{
+	font-family: Showcard Gothic;
+	color:rgb(128,128,128);
+	text-shadow:black;
+	text-align: center;
+	font-size: 30px;
+	background-color: white;
+}
+.b {
+	background-color:rgb(205,200,213);
+}
+.p {
+	margin-left: 25px;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: green;
+	font-family: britannic;
+}
+h3 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: Alegria;
+}
+body
+{
+	background-color: rgb(201,220,143);
+}
+article
+{
+	border-radius: 15px;
+	border:2px groove green;
+}
+p
+{
+	text-align: center;
+}
+nav { 
+ 		text-align: center; 
+ 	} 
+  
+nav a { 
+	background-color: rgba(218,234,213,0.60); 
+ 	color: #000000; /* Black */ 
+ 	display: inline-block; 
+ 	padding: 10px; 
+ 	margin: 1%;  
+ 	text-decoration: none;  
+ 	border-radius: 5px;  
+ }
+#pied_de_page{
+	clear: left;
+	margin-top: 30px;
+	padding: 5px;
+	background-color: rgb(236,213,206);
+	border-radius: 18px;
+	color: #ff456;
+	text-align: center;
+
