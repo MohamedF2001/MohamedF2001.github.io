@@ -1,0 +1,81 @@
+body
+{
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	background: url("astronomie.jpg");
+	font-family: Arial, "Times New Roman", Times, sans-serif;
+}
+a
+{
+	color: #F7E444;
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+#etoile_filante
+{
+	/*width: 200px;
+	height: 168px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background: url("sapin.png") no-repeat;*/
+}
+#en_tete
+{
+	height: 109px;
+	border: 2px dotted #F7E444;
+	background: url("sapin.png") no-repeat bottom right black;
+}
+h1
+{
+	text-indent: -50000px;
+}
+#menu
+{
+	width: 20%;
+	float: left;
+}
+.sous_menu
+{
+	margin-top: 20px;
+	background-color: black;
+	color: #F7E444;
+	border: 2px dotted #F7E444;
+}
+.sous_menu h3
+{
+	color: #0099FF;
+	text-align: center;
+}
+#corps
+{
+	margin-left: 22%;
+	margin-top: 20px;
+	padding: 10px;
+	border: 2px dotted #F7E444;
+	color: #E3AB57;
+	background-color: black;
+	text-align: justify;
+}
+#corps h2
+{
+	text-align: center;
+	color: #0099FF;
+}
+#pied_de_page
+{
+	clear: left;
+	margin-top: 30px;
+	padding: 5px;
+	background: url("sapin.png") no-repeat bottom right black;
+	color: #E3AB57;
+	text-align: center;
+	border: 2px dotted #F7E444;
+}
+
+
+
